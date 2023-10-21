@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Charles Marchee
+#### Software Developer
+![Software Developer](https://images.pond5.com/blue-programming-code-background-abstract-footage-090894338_prevstill.jpeg)
 
-<!--
-**charles-marchee/charles-marchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am german software developer experienced in a handfull of framworks like .NET Framwork and the building of applications ranging from mobile and web to windows based applications, both CLI and UI based.  
 
-Here are some ideas to get you started:
+Skills: Python / REACT / JS / HTML / CSS / C# / Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
