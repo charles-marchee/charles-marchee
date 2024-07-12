@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Charles
+### Hey, I'm Charles Marchee!
 #### Software Developer
 ![Software Developer](https://images.pond5.com/blue-programming-code-background-abstract-footage-090894338_prevstill.jpeg)
 
