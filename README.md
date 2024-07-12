@@ -2,12 +2,12 @@
 #### Software Developer
 ![Software Developer](https://images.pond5.com/blue-programming-code-background-abstract-footage-090894338_prevstill.jpeg)
 
-I am german software developer experienced in a handfull of framworks like .NET Framework and the building of applications ranging from mobile and web to windows based applications, both CLI and UI based.  
+I am software developer experienced in a AI/ML integration, creation and fine-tuning.
 
-Skills: Python / REACT / JS / HTML / CSS / C# / Dart
+Skills: Python / PyTorch / Computer Vision / ML / AI
 
-- 🔭 I’m currently working on my new portfolio website. 
-- 🌱 I’m currently learning web development in more detail both with Vanilla and React.js. 
+- 🔭 I’m currently working on custom AI/ML models.
+- 🌱 I’m currently learning new deep learning techniques
 - 💬 Ask me about anything you would like to about my projects. 
 - 📫 How to reach me: charles.marchee@protonmail.com 
 
